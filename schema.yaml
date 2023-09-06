@@ -149,7 +149,7 @@ variables:
     default: "RobotNotExist@avaloq.com"
     required: false
 
-# Conrols  
+# Controls  
   cls:
     title: "Framework"
     description: "Selecting the comliance model preselects appropriate resource and control parameter"
